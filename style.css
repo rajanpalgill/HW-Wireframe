@@ -1,0 +1,66 @@
+*{
+	box-sizing: border-box;
+	text-align: center;
+	margin: auto;
+}
+
+body{
+	font-size: 18px;
+	line-height: 38px;
+	color:#ebebeb;
+	max-width: 960px;
+}
+
+header{
+	padding: 20px;
+	margin-bottom:20px;
+	background:#777
+}
+
+nav{
+	padding:15px;
+	margin-bottom: 20px;
+	background:#777 
+
+}
+
+section {
+	padding: 20px;
+ text-align: center;
+ font-size: 18px;
+ max-width: 495px !important; 
+ width: 100%;
+ float: left;
+ background:#777;
+ margin: 0 0 20px 0;
+}
+
+aside{
+	padding:20px;
+	float: right;
+	width: 60%;
+	height: 344px;
+	background: url(http://www.indiewire.com/wp-content/uploads/2017/10/matrix-code.jpg);
+	max-width: 420px;
+	margin-bottom: 20px;
+
+
+}
+
+#middle {
+	float: left;
+
+	font-family: arial;
+}
+
+#right{
+	float: right;
+}
+
+footer{
+	padding: 10px;
+	clear: both;
+	
+
+	background:#777;
+}
